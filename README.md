@@ -2,8 +2,13 @@
 
 [🔗 HuggingFace Project Repository](https://huggingface.co/dina301/Fine-Tuning-SDXL-lora-model)
 
-[🔗 Live Gradio Demo](https://drive.google.com/file/d/1synkCnIgLoTTMXtb6YEEf7-GnLLy1JDv/view?usp=sharing)
+[🔗 HuggingFace dataset_caption Repository](https://huggingface.co/datasets/dina301/interior-dataset-captions-en-blip2-opt-2.7b/viewer
+)
 
+[🔗 Image_caption(BLIP)_Final.ipynb](https://drive.google.com/file/d/1OxP5_srT-FuqPUHj44C1En9NRTgvLsCe/view?usp=drive_link
+)
+
+[🔗 Live Gradio Demo](https://drive.google.com/file/d/1synkCnIgLoTTMXtb6YEEf7-GnLLy1JDv/view?usp=sharing)
 ---
 
 ## 👩‍💻 Team Members
